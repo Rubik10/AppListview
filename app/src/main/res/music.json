@@ -1,0 +1,82 @@
+{
+    "music" : [
+               
+               {
+               "artist" : "Limp Bizkit" ,
+               "title" : "Three Dollar Bill, Y'All$" ,
+               "genre" : "Nu Metal" ,
+               "coverUrl" : "http://mysave.in/v1/images/nqwjv0idrtffymcdw29.jpg" ,
+               "year" : "1997" 
+               } ,
+        
+               {
+               "artist" : "Limp Bizkit" ,
+               "title" : "Significant Other" ,
+               "genre" : "Nu Metal" ,
+               "coverUrl" : "http://ecx.images-amazon.com/images/I/816uDN5ndxL._SL1200_.jpg" ,
+               "year" : "1999"
+               } ,
+               
+               {
+               "artist" : "Limp Bizkit" ,
+               "title" : "Chocolate Starfish & the Hot Dog Flavored Water" ,
+               "genre" : "Nu Metal" ,
+               "coverUrl" : "http://mysave.in/v1/images/n2dcwj8j0z03xubuhwun.jpg" ,
+               "year" : "2000"
+
+               } ,
+               
+               {
+               "artist" : "Limp Bizkit" ,
+               "title" : "New Old Songs" ,
+               "genre" : "Nu Metal" ,
+               "coverUrl" : "http://mysave.in/v1/images/0wwag1i1wsw1y4oge06x.jpg" ,
+               "year" : "2001"
+               } ,
+               
+               {
+               "artist" : "Limp Bizkit" ,
+               "title" : "Rock Im Parc (Live)" ,
+               "genre" : "Nu Metal" ,
+               "coverUrl" : "http://ecx.images-amazon.com/images/I/81ps6A1X1dL._SL1425_.jpg" ,
+               "year" : "2001"
+               } ,
+               
+               {
+               "artist" : "Limp Bizkit" ,
+               "title" : "Results May Vary" ,
+               "genre" : "Nu Metal" ,
+               "coverUrl" : "http://3.bp.blogspot.com/-HoIpBDGV4M4/TxMj-UCHJhI/AAAAAAAAAec/kHVmE1OI5UA/s1600/04lb.jpg" ,
+               "year" : "2003"
+               } ,
+               
+               {
+               "artist" : "Limp Bizkit" ,
+               "title" : "Greatest Hitz" ,
+               "genre" : "Nu Metal" ,
+               "coverUrl" : "https://upload.wikimedia.org/wikipedia/de/c/c4/Limp_Bizkit_-_Greatest_Hitz_-_Cover.jpg" ,
+               "year" : "2005"
+               } ,
+               
+               
+               {
+               "artist" : "Limp Bizkit" ,
+               "title" : "Gold Cobra" ,
+               "genre" : "Nu Metal" ,
+               "coverUrl" : "http://www.ddotomen.com/wp-content/uploads/2011/06/LIMP_COVER-e1309365256716.jpg" ,
+               "year" : "2011"
+               } ,
+               
+               {
+               "artist" : "Limp Bizkit" ,
+               "title" : "Forgotten Muse" ,
+               "genre" : "Nu Metal" ,
+               "coverUrl" : "http://3.bp.blogspot.com/-7YJsdX11DKE/VFGasj5if8I/AAAAAAAAN_I/XwfP19GJKmM/s1600/2014%2B-%2BForgotten%2BMuse.jpg" ,
+               "year" : "2011"
+               }
+               
+               
+               ] ,
+    
+    "stat": "ok"
+}
